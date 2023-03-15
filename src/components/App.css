@@ -1,0 +1,15 @@
+.SearchBar{
+    background-color: #90EE90;
+    padding-bottom: 50px;;
+}
+input {
+    width: 40%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  .App-header{
+    font-size: 35px;
+    margin-bottom: 25px;
+  }
